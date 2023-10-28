@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GanyuHail/meta-react1-test/static/css/main.073c9b0a.css",
+    "main.js": "/GanyuHail/meta-react1-test/static/js/main.0b9f4337.js",
+    "static/js/787.5c7cf61e.chunk.js": "/GanyuHail/meta-react1-test/static/js/787.5c7cf61e.chunk.js",
+    "static/media/logo.svg": "/GanyuHail/meta-react1-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/GanyuHail/meta-react1-test/index.html",
+    "main.073c9b0a.css.map": "/GanyuHail/meta-react1-test/static/css/main.073c9b0a.css.map",
+    "main.0b9f4337.js.map": "/GanyuHail/meta-react1-test/static/js/main.0b9f4337.js.map",
+    "787.5c7cf61e.chunk.js.map": "/GanyuHail/meta-react1-test/static/js/787.5c7cf61e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0b9f4337.js"
+  ]
+}
